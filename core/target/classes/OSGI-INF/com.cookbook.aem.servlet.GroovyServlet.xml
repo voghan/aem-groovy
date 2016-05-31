@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0" name="com.cookbook.aem.servlet.GroovyServlet">
+    <implementation class="com.cookbook.aem.servlet.GroovyServlet"/>
+    <service servicefactory="false">
+        <provide interface="javax.servlet.Servlet"/>
+    </service>
+    <property name="sling.servlet.paths">
+        /bin/groovy/hello
+    </property>
+    <property name="service.pid" value="com.cookbook.aem.servlet.GroovyServlet"/>
+</scr:component>

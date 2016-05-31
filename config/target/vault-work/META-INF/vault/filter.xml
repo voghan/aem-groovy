@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter version="1.0">
+    <filter root="/apps/aem-groovy-config">
+        <include pattern="/apps/aem-groovy-config/config(.*)?" />
+    </filter>
+</workspaceFilter>

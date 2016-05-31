@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aem-groovy Dependency Package</comment>
+<entry key="createdBy">35493</entry>
+<entry key="name">dependencies</entry>
+<entry key="created">2016-05-31T10:18:26.582-0500</entry>
+<entry key="groupId">aem-groovy</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aem-groovy</entry>
+<entry key="description">Maven Multimodule project for AEM6.</entry>
+<entry key="artifactId">dependencies</entry>
+<entry key="path">/etc/packages/aem-groovy/dependencies.zip</entry>
+</properties>

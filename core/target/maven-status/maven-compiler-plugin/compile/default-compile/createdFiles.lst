@@ -1,0 +1,4 @@
+com/cookbook/aem/components/AuthorDetails.class
+com/cookbook/aem/servlet/GroovyServlet.class
+com/cookbook/aem/Activator.class
+com/cookbook/aem/servlet/JavaServlet.class
